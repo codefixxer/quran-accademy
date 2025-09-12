@@ -98,7 +98,7 @@
                                 <img src="{{ asset('assets/img/text-circle.png') }}" class="circle-text-img"
                                     alt="circle-img">
                                 <figure class="circle-img">
-                                    <img src="{{ asset('assets/img/circle-img.png') }}" alt="circle-img">
+                                    <img src="{{ asset('assets/img/q1.jpg') }}" alt="circle-img">
                                 </figure>
                             </div>
                             <div class="real-history-book hoverimg">
