@@ -159,3 +159,12 @@ Route::prefix('admin/contactus')->group(function () {
 
 Route::get('student/books', [BookController::class, 'showbooks'])->name('student.books.index');
 Route::get('student/books/index', [HistoryController::class, 'showhistory'])->name('student.history.index');
+
+
+
+
+Route::post('/newsletter/subscribe', function (Request $request) {
+    $request->validate(['email' => 'required|email']);
+    // TODO: store or send to your ESP
+    return back()->with('success', 'Subscribed successfully!');
+})->name('newsletter.subscribe');
