@@ -113,7 +113,7 @@ Setting (footer, menus, SEO, prayer city)
 ## 🚀 Installation
 
 bash
-git clone https://github.com/your-org/quranhome.git
+git clone https://github.com/codefixxer/quran-accademy.git
 cd quranhome
 composer install
 cp .env.example .env
