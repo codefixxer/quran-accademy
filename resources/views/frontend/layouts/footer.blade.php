@@ -99,7 +99,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="widget-title">
                     <h3>Information</h3>
-                    <p>QuranHome is a global online Qur’an learning platform offering live classes for kids and adults — Qaida, Nazra, Hifz, Tajweed, and Tafseer — with certified teachers and flexible schedules.</p>
+                    <p>Quran-ul-Majeed is a global online Qur’an learning platform offering live classes for kids and adults — Qaida, Nazra, Hifz, Tajweed, and Tafseer — with certified teachers and flexible schedules.</p>
                 </div>
             </div>
 
